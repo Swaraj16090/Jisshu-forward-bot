@@ -41,9 +41,9 @@ class Translation(object):
   
   ABOUT_TXT = """<b>╭──────❰ 🤖 Bot Details ❱──────〄
 │ 
-│ 🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/Jisshu_forward_bot>ғᴏʀᴡᴀʀᴅ ʙᴏᴛ</a>
-│ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/IM_JISSHU>ZISHAN</a>
-│ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/JISSHU_BOTS>JISSHU BOTS </a>
+│ 🤖 Mʏ Nᴀᴍᴇ : <a href=http://telegram.me/Heisenberg1609>ғᴏʀᴡᴀʀᴅ ʙᴏᴛ</a>
+│ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=http://telegram.me/Heisenberg1609</a>
+│ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=http://telegram.me/Heisenberg1609> BOTS </a>
 │ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://www.hetzner.com/>ʜᴇᴛᴢɴᴇʀ</a>
 │ 🗣️ ʟᴀɴɢᴜᴀɢᴇ  : ᴘʏᴛʜᴏɴ 3 
 {python_version}
